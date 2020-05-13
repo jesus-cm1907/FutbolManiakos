@@ -1,0 +1,12 @@
+Esta página tendrá: 
+- Una página principal que almacenará el link de la web en la parte superior
+- El nombre de la página en la parte superior centrada
+- En la parte izquierda de arriba hacia abajo, contendrá una barra de búsqueda, una tabla con links hacia las claseficaciones
+de las distintas ligas, una sección llamada "partidos de locos" que es un reproductor donde ver los resúmenes de los partidos, el perfil 
+del usuario donde contendrá una imagen de perfil y una breve descripción del usuario con opciones para contactar con este e incluso 
+añadirlo, una lista donde contendrá a los amigos agregados y abajo del todo las redes sociales.
+- En la parte derecha tendremos: el inicio y el cierre de sesión, llamado "Fin del partido", una votación con dos elecciones del mejor gol
+de la temporada con opción de entrar en un sorteo con participar incluyendo un gráfico de porcentaje para ver el desarrollo de la 
+votación, un foro con distintas secciones y variados temas del que hablar, una sección llamada "El mensaje del VAR" para la búsqueda de 
+usuarios de la app, una sección de futbol premium para ver partidos premium mediante una subscripción y un calendario para saber las fechas
+de los partidos
