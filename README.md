@@ -37,3 +37,16 @@ Tiempo empleado: 2 horas
 Herramientas usadas: stackedit, imgur, lucidchart, eclipse
 
 Bibliografía usada: https://www.eclipse.org/, https://stackedit.io/, https://imgur.com/, https://www.lucidchart.com/
+
+Sprint 4:
+
+Fecha: 20/05/2020
+
+Tareas realizadas: Creación de diagramas de uso y fichas técnicas
+
+Tiempo empleado: 2 horas
+
+Herramientas usadas: stackedit, imgur, lucidchart
+
+Bibliografía usada: https://stackedit.io/, https://imgur.com/, https://www.lucidchart.com/
+
